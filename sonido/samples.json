@@ -1,4 +1,4 @@
 [ { "url":"Alex1.wav","type":"audio","bank":"sonido","n":0},
-  { "url":"Aut1.wav","type":"audio","bank":"sonido","n":0},
-  { "url":"Duch1.wav","type":"audio","bank":"sonido","n":0},
+  { "url":"Aut1.wav","type":"audio","bank":"sonido","n":1},
+  { "url":"Duch1.wav","type":"audio","bank":"sonido","n":2},
 ]
